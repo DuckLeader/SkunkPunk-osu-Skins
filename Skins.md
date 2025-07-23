@@ -6,14 +6,14 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
-# [CeilingWaffle Type](https://drive.google.com/file/d/1SsQ-CuZkEBgsosvYWQDhYcv-S5a8sUJV/view?usp=sharing) 
-- ## Heavily inspired by CeilingWaffle's instafade Rohulk edits
-![screenshot048](https://github.com/user-attachments/assets/47add5c9-ff6a-4595-be6b-97dec8e2a53e)
+# [Koba Old Type](https://drive.google.com/file/d/1mHe2U9OX1OHp1NIMG9n-dtO36z4wwNGE/view?usp=sharing)
+- ## Inspired by an old Koba skin with the Recia hitcircle and default numbers
+![screenshot051](https://github.com/user-attachments/assets/704dce0e-ba1f-4a5a-9384-0648d47d13b2)
 
 # [Enon Type](https://drive.google.com/file/d/1C2DLvlgP6GGEUrLcYmOAopRXfh8eNP30/view?usp=sharing)
 - ## Heavily inspired by Enon's skin previewed in a 2017 top 20 South Korea players video
 ![screenshot050](https://github.com/user-attachments/assets/dd66d63d-d40c-461e-9a74-c6d0566b4cda)
 
-# [Koba Old Type](https://drive.google.com/file/d/1mHe2U9OX1OHp1NIMG9n-dtO36z4wwNGE/view?usp=sharing)
-- ## Inspired by an old Koba skin with the Recia hitcircle and default numbers
-![screenshot051](https://github.com/user-attachments/assets/704dce0e-ba1f-4a5a-9384-0648d47d13b2)
+# [CeilingWaffle Type](https://drive.google.com/file/d/1SsQ-CuZkEBgsosvYWQDhYcv-S5a8sUJV/view?usp=sharing) 
+- ## Heavily inspired by CeilingWaffle's instafade Rohulk edits
+![screenshot048](https://github.com/user-attachments/assets/47add5c9-ff6a-4595-be6b-97dec8e2a53e)
