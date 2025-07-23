@@ -4,4 +4,4 @@
 - ## If you have any questions about how I make stuff or anything like that just ask me on discord @SkunkPunk
 <p align="center">
 
-[My osu! Profile](https://osu.ppy.sh/users/7969090)
+## [My osu! Profile](https://osu.ppy.sh/users/7969090)
