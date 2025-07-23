@@ -12,7 +12,7 @@
 ![screenshot053](https://github.com/user-attachments/assets/c9d90d2f-ddd1-4a39-982b-7a17dc374a9d)
 
 # [Cr1m-Enon Type](https://drive.google.com/file/d/1a8oLEEh4Yhm_s__dwq_WMn-q7Rt78pFv/view?usp=sharing)
-- ## Inspirsed by Cr1m v7 and the 2017 Enon skin
+- ## Inspired by Cr1m v7 and the 2017 Enon skin
  ![screenshot052](https://github.com/user-attachments/assets/19770b38-2e21-4f46-9bcb-9a6ed33bff85)
 
 # [Enon Type](https://drive.google.com/file/d/1C2DLvlgP6GGEUrLcYmOAopRXfh8eNP30/view?usp=sharing)
