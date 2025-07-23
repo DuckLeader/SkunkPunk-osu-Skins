@@ -6,6 +6,9 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
+# [Cr1m-Enon Type](https://drive.google.com/file/d/1a8oLEEh4Yhm_s__dwq_WMn-q7Rt78pFv/view?usp=sharing)
+- ## Inspirsed by Cr1m v7 and the 2017 Enon skin
+ 
 # [Koba Old Type](https://drive.google.com/file/d/1mHe2U9OX1OHp1NIMG9n-dtO36z4wwNGE/view?usp=sharing)
 - ## Inspired by an old Koba skin with the Recia hitcircle and default numbers
 ![screenshot051](https://github.com/user-attachments/assets/704dce0e-ba1f-4a5a-9384-0648d47d13b2)
