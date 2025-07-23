@@ -8,10 +8,11 @@
 
 # [Cr1m-Enon Type](https://drive.google.com/file/d/1a8oLEEh4Yhm_s__dwq_WMn-q7Rt78pFv/view?usp=sharing)
 - ## Inspirsed by Cr1m v7 and the 2017 Enon skin
- 
+ ![screenshot052](https://github.com/user-attachments/assets/19770b38-2e21-4f46-9bcb-9a6ed33bff85)
+
 # [Koba Old Type](https://drive.google.com/file/d/1mHe2U9OX1OHp1NIMG9n-dtO36z4wwNGE/view?usp=sharing)
 - ## Inspired by an old Koba skin with the Recia hitcircle and default numbers
-![screenshot052](https://github.com/user-attachments/assets/20ac6708-c7d9-49c5-81c8-453a13a07c1c)
+![screenshot051](https://github.com/user-attachments/assets/0beb784d-e5bc-41ab-a917-2843a6994b73)
 
 # [Enon Type](https://drive.google.com/file/d/1C2DLvlgP6GGEUrLcYmOAopRXfh8eNP30/view?usp=sharing)
 - ## Heavily inspired by Enon's skin previewed in a 2017 top 20 South Korea players video
