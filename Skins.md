@@ -8,3 +8,6 @@
 
 # [CeilingWaffle Type](https://drive.google.com/file/d/1SsQ-CuZkEBgsosvYWQDhYcv-S5a8sUJV/view?usp=sharing)
 ![screenshot048](https://github.com/user-attachments/assets/47add5c9-ff6a-4595-be6b-97dec8e2a53e)
+
+# [Private Type](https://drive.google.com/file/d/1C2DLvlgP6GGEUrLcYmOAopRXfh8eNP30/view?usp=sharing)
+![screenshot050](https://github.com/user-attachments/assets/dd66d63d-d40c-461e-9a74-c6d0566b4cda)
