@@ -5,3 +5,5 @@
 <p align="center">
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
+
+# [CW Type](https://drive.google.com/file/d/1SsQ-CuZkEBgsosvYWQDhYcv-S5a8sUJV/view?usp=sharing)
