@@ -12,7 +12,7 @@
 ![screenshot055](https://github.com/user-attachments/assets/7fef9337-cf83-4d87-b245-73c453535977)
 
 # [Beastars Minimal DT](https://drive.google.com/file/d/1XWoAk9QiujN3qOLnkAxWY73_c1L_bWJf/view?usp=sharing)
-- ## A DT version of the minimal Beastars skin
+- ## A DT version of the Beastars skin above
 ![screenshot054](https://github.com/user-attachments/assets/a37907c7-501b-4c26-85b1-c08a4bc4808d)
 
   
