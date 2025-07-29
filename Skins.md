@@ -8,7 +8,7 @@
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
 # [Beastars Minimal KF-NM](https://drive.google.com/file/d/15tXDFQjeflliqE2ijw22aFIGdGmatDkd/view?usp=sharing)
-- ## A minimal skin with gameplay remade from the Megii's Tippy skin so the hitcircles fade out and UI elements mainly from my 2020 Beastars-Duck Remastered skin
+- ## A minimal skin with gameplay elements remade from the Megii's Tippy skin so the hitcircles fade out and UI elements mainly from my 2020 Beastars-Duck Remastered skin
 ![screenshot055](https://github.com/user-attachments/assets/7fef9337-cf83-4d87-b245-73c453535977)
 
 # [Beastars Minimal KF-DT](https://drive.google.com/file/d/1XWoAk9QiujN3qOLnkAxWY73_c1L_bWJf/view?usp=sharing)
