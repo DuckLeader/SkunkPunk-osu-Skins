@@ -7,11 +7,11 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
-# [Beastars Minimal KFNM](https://drive.google.com/file/d/15tXDFQjeflliqE2ijw22aFIGdGmatDkd/view?usp=sharing)
+# [Beastars Minimal KF-NM](https://drive.google.com/file/d/15tXDFQjeflliqE2ijw22aFIGdGmatDkd/view?usp=sharing)
 - ## A minimal skin with gameplay remade from the Tippy skin Karcher uses so the hitcircles fade out and UI elements mainly from my 2020 Beastars-Duck Remastered skin
 ![screenshot055](https://github.com/user-attachments/assets/7fef9337-cf83-4d87-b245-73c453535977)
 
-# [Beastars Minimal KFDT](https://drive.google.com/file/d/1XWoAk9QiujN3qOLnkAxWY73_c1L_bWJf/view?usp=sharing)
+# [Beastars Minimal KF-DT](https://drive.google.com/file/d/1XWoAk9QiujN3qOLnkAxWY73_c1L_bWJf/view?usp=sharing)
 - ## A DT version of the Beastars skin above
 ![screenshot054](https://github.com/user-attachments/assets/a37907c7-501b-4c26-85b1-c08a4bc4808d)
 
