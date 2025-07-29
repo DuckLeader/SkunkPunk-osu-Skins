@@ -7,6 +7,15 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
+# [Beastars Minimal NM](https://drive.google.com/file/d/15tXDFQjeflliqE2ijw22aFIGdGmatDkd/view?usp=sharing)
+- ## A minimal Beastars skin with gameplay inspired by Karcher's Tippy skin
+![screenshot055](https://github.com/user-attachments/assets/7fef9337-cf83-4d87-b245-73c453535977)
+
+# [Beastars Minimal DT](https://drive.google.com/file/d/1XWoAk9QiujN3qOLnkAxWY73_c1L_bWJf/view?usp=sharing)
+- ## A DT version of the minimal Beastars skin
+![screenshot054](https://github.com/user-attachments/assets/a37907c7-501b-4c26-85b1-c08a4bc4808d)
+
+  
 # [Hundur Type](https://drive.google.com/file/d/1GslzeUmu1tRy20DNUEH7yhayKuauTgGV/view?usp=sharing)
 - ## Inspired by Hundur's skin used in a 2014-2015 top Norway players video
 ![screenshot053](https://github.com/user-attachments/assets/c9d90d2f-ddd1-4a39-982b-7a17dc374a9d)
