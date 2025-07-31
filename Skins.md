@@ -7,11 +7,11 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
-# [RGNM](https://drive.google.com/file/d/14KWztkaN--Na4y7IULGOv_7-uj0zm8H6/view?usp=sharing)
+# [RG-NM](https://drive.google.com/file/d/14KWztkaN--Na4y7IULGOv_7-uj0zm8H6/view?usp=sharing)
 - ## The MonkoGlassEdit skin's gameplay but with elements I remade
 ![screenshot056](https://github.com/user-attachments/assets/9b52576e-5a5f-43ee-84e7-e6f69dee53e3)
 
-# [RGDT](https://drive.google.com/file/d/1-c25ts91zUi0gdnz-SpGeivVvNcSmdL_/view?usp=sharing)
+# [RG-DT](https://drive.google.com/file/d/1-c25ts91zUi0gdnz-SpGeivVvNcSmdL_/view?usp=sharing)
 - ## A DT version of the skin above
 ![screenshot057](https://github.com/user-attachments/assets/96c9abbc-c78a-4690-891f-76c50b71e8ad)
 
