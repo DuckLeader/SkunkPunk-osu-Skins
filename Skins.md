@@ -7,6 +7,14 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
+# [DC-NM](https://drive.google.com/file/d/1geugiPV-4JbvqHbovSHbXQigQ_0jYjMf/view?usp=sharing)
+- ## Decaten's Tekkito skin edit with gameplay elements I remade and edited to my taste
+![screenshot065](https://github.com/user-attachments/assets/ead708c9-379d-4c25-b44a-5bd09d1aafee)
+
+# [DC-DT](https://drive.google.com/file/d/15X_mABTErK_vWJ5zBj3ZkAOkeunfi6BE/view?usp=sharing)
+- ## a DT version of the skin above, also edited to my taste
+![screenshot064](https://github.com/user-attachments/assets/d098065d-d1f0-4806-bbb8-8934d9f61e18)
+
 # [RG-NM](https://drive.google.com/file/d/14KWztkaN--Na4y7IULGOv_7-uj0zm8H6/view?usp=sharing)
 - ## The MonkoGlassEdit skin's gameplay but with elements I remade
 ![screenshot056](https://github.com/user-attachments/assets/9b52576e-5a5f-43ee-84e7-e6f69dee53e3)
