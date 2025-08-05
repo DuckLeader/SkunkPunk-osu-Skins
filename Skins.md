@@ -12,7 +12,7 @@
 ![screenshot067](https://github.com/user-attachments/assets/b496fb52-5a38-4769-8876-f86ac7037281)
 
 # [Coffii-DT](https://drive.google.com/file/d/1DmIqWF1OVH3B_R-PbUQNb4huI6MUM5jB/view?usp=sharing)
-- ## The same concept and overall theme as the skin above, but instead I heavily referenced Megii's DT hitcircles found [here](https://www.youtube.com/watch?v=7BRx8wbKJA8&t=242s) and created a fade-out version while keeping a similar theme from the skin above
+- ## The same concept and overall theme as the skin above, but instead I heavily referenced Megii's DT hitcircles found [here](https://www.youtube.com/watch?v=7BRx8wbKJA8&t=242s) and created a fade-out version while keeping a similar overall theme from the skin above
 ![screenshot066](https://github.com/user-attachments/assets/9411655a-2261-491d-8b0f-dec8f642b26f)
 
 # [DC-NM](https://drive.google.com/file/d/1geugiPV-4JbvqHbovSHbXQigQ_0jYjMf/view?usp=sharing)
