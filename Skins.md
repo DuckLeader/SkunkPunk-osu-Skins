@@ -8,7 +8,7 @@
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
 # [Coffii-NM](https://drive.google.com/file/d/1xyNgMmi4i8Njn3EiwB02CLuTPdc04lpc/view?usp=sharing)
-- ## I referenced 2 of Megii's instafade hitcircles seen on their [YouTube channel](https://www.youtube.com/@Megii) and made a combined fade-out version that follows a very similar coffee-colored gameplay theme found [here](https://www.youtube.com/watch?v=KNo8qwvo_lM)
+- ## I referenced one of Megii's instafade hitcircles seen [here](https://www.youtube.com/watch?v=KNo8qwvo_lM) and made a slightly different fade-out version that follows the main coffee-colored gameplay idea
 ![screenshot067](https://github.com/user-attachments/assets/b496fb52-5a38-4769-8876-f86ac7037281)
 
 
