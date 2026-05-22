@@ -7,6 +7,9 @@
 
 ## [My osu! Profile](https://osu.ppy.sh/users/7969090)
 
+# [Frankie (SP Edit)](https://drive.google.com/file/d/1I3iFd6GmxQopuk1P38pBUrUd638pxihw/view?usp=sharing)
+- ## My current main skin
+
 # [Coffii-NM](https://drive.google.com/file/d/1xyNgMmi4i8Njn3EiwB02CLuTPdc04lpc/view?usp=sharing)
 - ## I heavily referenced one of Megii's gameplay themes seen [here](https://www.youtube.com/watch?v=KNo8qwvo_lM) and created a fade-out hitcircle that follows the overall theme with elements slightly changed to my taste
 ![screenshot067](https://github.com/user-attachments/assets/b496fb52-5a38-4769-8876-f86ac7037281)
